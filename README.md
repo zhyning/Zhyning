@@ -31,6 +31,6 @@ Which paper plane would you choose for a typical flight?
 
 The glider. Its median was 6 m, compared with 4 m for the dart. The dart set the single-flight record at 9 m.
 
-[Check the evidence](<https://github.com/YOUR-USERNAME/my-first-repo/blob/main/flight-log.md>)
+[Check the evidence](<https://github.com/zhyning/my-first-repo/blob/main/flight-log.md>)
 
 </details>
