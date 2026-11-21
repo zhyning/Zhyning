@@ -4,7 +4,7 @@
 [One sentence about a technical interest and the kind of project you enjoy.]
 
 ## Featured project
-[Which paper plane flies farther?](<https://github.com/YOUR-USERNAME/my-first-repo/blob/main/flight-log.md>)
+[Which paper plane flies farther?](<https://github.com/zhyning/my-first-repo/blob/main/flight-log.md>)
 
 I compared [number] fictional flights and used [method]. I found [your result in one sentence].
 
